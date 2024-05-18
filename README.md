@@ -1,2 +1,1 @@
-# BreathingRate
-Calculation of Breathing Rate Using WiFi CSI Data.
+# Calculation of Breathing Rate from WiFi CSI Data.
